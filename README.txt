@@ -1,0 +1,4 @@
+-download awards.csv,contracts.csv and final.php file put it into a folder and name the folder(Eg: xyz)
+-Copy the folder(Eg: xyz) in /var/www in linux or C://xampp/htdocs in windows
+-open your browser and give this address "http://localhost/xyz/final.php"
+-you will notice final.csv is created and "Total Amount of current contracts: 600000" is printed on your brower
